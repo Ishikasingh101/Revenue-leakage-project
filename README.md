@@ -5,7 +5,7 @@ Insurance companies reject a lot of medical claims, sometimes for valid reasons,
 sometimes not and every rejected claim means the hospital doesn't get paid, or 
 gets paid late. This project analyzes 120,000 real-style claims to find out why 
 claims get denied, how much money that's costing, and builds a model that can 
-predict which future claims are at risk of denial before they're even submitted — 
+predict which future claims are at risk of denial before they're even submitted, 
 plus a Power BI dashboard summarizing revenue leakage, denial trends, and the highest-risk payers.
 
 ## Tools Used
